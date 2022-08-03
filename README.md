@@ -14,7 +14,7 @@ And you can also convert a string in binary,hex or octal format to a data with d
 ## Quick Start
 ##### Install
 ``` sh
-$ go get github.com/imroc/biu
+$ go get github.com/tjlcast/biu
 ```
 ##### Bytes to string (binary format)
 ``` go
